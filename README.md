@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Avanthik
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning webdevelopement
+- 📫 How to reach me avanthik@bititude.com
